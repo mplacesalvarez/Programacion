@@ -1,8 +1,6 @@
 
 package boletin15_2;
 
-
-
 public class Boletin15_2 {
      public static void main(String[] args) {
     
