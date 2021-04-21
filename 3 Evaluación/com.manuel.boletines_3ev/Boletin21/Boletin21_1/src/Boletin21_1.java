@@ -269,3 +269,4 @@ public class Boletin21_1 extends javax.swing.JFrame {
     private javax.swing.JTextField jTextField4;
     // End of variables declaration//GEN-END:variables
 }
+
